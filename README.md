@@ -1,5 +1,5 @@
 # Machine Learning Algorithms Coursework & Projects
-Projects and implementations from my undergraduate machine learning course, including supervised, unsupervised, and deep learning algorithm implementations & and interpretations
+This repo contains projects completed in an undergraduate machine learning course, including supervised, unsupervised, and deep learning algorithm implementations & and interpretations
 
 # Repo Structure
 ml_algorithms_course/  
