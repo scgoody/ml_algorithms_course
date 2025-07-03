@@ -1,4 +1,4 @@
-# Machine Learning Algorithms (MATH470 Jacksonville University) - Course Work & Projects
+# Machine Learning Algorithms Coursework & Projects
 Projects and implementations from my undergraduate machine learning course, including supervised, unsupervised, and deep learning algorithm implementations & and interpretations
 
 # Repo Structure
