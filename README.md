@@ -2,7 +2,7 @@
 This repo contains projects completed in an undergraduate machine learning course, including supervised, unsupervised, and deep learning algorithm implementations & and interpretations
 
 # Repo Structure
-ml_algorithms_course/  
+ml_algorithms_projects/  
 ├── final_project/        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# final course project detailing types of ML models with examples  
 │   └── Goodyear-DeepLearning_NeuralNets.ipynb  
 │   └── Goodyear-SupervisedLearning.ipynb  
@@ -62,8 +62,8 @@ Include foundational concepts and practical implementations learned in class:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/scgoody/ml_algorithms_course.git
-   cd ml_algorithms_course
+   git clone https://github.com/scgoody/ml_algorithms_projects.git
+   cd ml_algorithms_projects
 2. Open .ipynb files in Jupyter Notebook, VS Code, or Colab
 
 ## Author
